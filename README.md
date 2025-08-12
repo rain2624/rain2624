@@ -1,6 +1,5 @@
 ## 🙋🏼‍♀️Introducing Myself
 
-<!--
 Hello, I am Rania Shaikh. I am a Data Analyst, with responsibilities that closely align with a Data Engineer role.
 My day-to-day task involves:  
 - Querying data using SQL.
@@ -20,4 +19,4 @@ Recently, I completed the Data Engineering Zoomcamp, where I gained hands-on exp
 1. IAAC: Terraform 
 1. Visualization: Power-bi, Looker Studio
 1. Version Control: Git and Git-hub
--->
+
