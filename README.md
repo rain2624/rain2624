@@ -10,9 +10,9 @@ My day-to-day task involves:
 
 Recently, I completed the Data Engineering Zoomcamp, where I gained hands-on experience with a wide range of data engineering tools and best practices.
 
-📚 Projects 
+### 📚 Projects 
 
-🔨 Tools
+### 🔨 Tools
 1. Language: SQL, Python, Pyspark
 1. Orchestrator: Airflow
 1. Database: Google BigQuery, PostgreSQL, MySQL, MongoDb
