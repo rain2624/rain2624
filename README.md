@@ -1,4 +1,5 @@
 ## 🙋🏼‍♀️Introducing Myself
+<img width="1584" height="396" alt="Beige   Brown Simple Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/e26d671c-7b6a-4b64-bed0-463534ae112b" />
 
 Hello, I am Rania Shaikh. A Data Analyst, with responsibilities that closely align with a Data Engineer role.
 My day-to-day task involves:  
