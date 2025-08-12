@@ -1,16 +1,23 @@
-## Hi there 👋
+## 🙋🏼‍♀️Introducing Myself
 
 <!--
-**rain2624/rain2624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am Rania Shaikh. I am a Data Analyst, with responsibilities that closely align with a Data Engineer role.
+My day-to-day task involves:  
+- Querying data using SQL.
+- Generate reports and perform ad-hoc data analysis using SQL.
+- Developing dashboards on Power-bi and Looker Studio.
+- Data analysis and reporting using Google Sheets and Excel.
+- Designing and performing ETL pipelines
 
-Here are some ideas to get you started:
+Recently, I completed the Data Engineering Zoomcamp, where I gained hands-on experience with a wide range of data engineering tools and best practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📚 Projects 
+
+🔨 Tools
+1. Language: SQL, Python, Pyspark
+1. Orchestrator: Airflow
+1. Database: Google BigQuery, PostgreSQL, MySQL, MongoDb
+1. IAAC: Terraform 
+1. Visualization: Power-bi, Looker Studio
+1. Version Control: Git and Git-hub
 -->
