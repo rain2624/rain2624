@@ -1,6 +1,6 @@
 ## 🙋🏼‍♀️Introducing Myself
 
-Hello, I am Rania Shaikh. I am a Data Analyst, with responsibilities that closely align with a Data Engineer role.
+Hello, I am Rania Shaikh. A Data Analyst, with responsibilities that closely align with a Data Engineer role.
 My day-to-day task involves:  
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
