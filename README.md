@@ -14,7 +14,7 @@ My day-to-day task involves:
 Recently, I completed the Data Engineering Zoomcamp, where I gained hands-on experience with a wide range of data engineering tools and best practices.
 
 ### 📚 Projects 
-1. [NYPD Arrest Data Analysis Project])(https://github.com/rain2624/nypd_arrest_data_analysis)
+1. [NYPD Arrest Data Analysis Project](https://github.com/rain2624/nypd_arrest_data_analysis)
 1. [NYC Taxi Trips Batch Data Pipeline Project](https://github.com/rain2624/batch_pipeline_nyc_taxi_trips)
 
 ### 🔨 Tools
