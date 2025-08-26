@@ -20,7 +20,7 @@ Recently, I completed the Data Engineering Zoomcamp, where I gained hands-on exp
 ### 🔨 Tools
 1. Language: SQL, Python, Pyspark
 1. Orchestrator: Airflow
-1. Database: Google BigQuery, PostgreSQL, MySQL, MongoDb
+1. Database: Google BigQuery, PostgreSQL, MySQL
 1. IAAC: Terraform 
 1. Visualization: Power-bi, Looker Studio
 1. Version Control: Git and Git-hub
