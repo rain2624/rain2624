@@ -15,7 +15,8 @@ Recently, I completed the Data Engineering Zoomcamp, where I gained hands-on exp
 
 ### 📚 Projects 
 1. [NYPD Arrest Data Analysis Project](https://github.com/rain2624/nypd_arrest_data_analysis)
-1. [NYC Taxi Trips Batch Data Pipeline Project](https://github.com/rain2624/batch_pipeline_nyc_taxi_trips)
+1. [NYC Taxi Trips Batch Data Pipeline Project GCP](https://github.com/rain2624/batch_pipeline_nyc_taxi_trips)
+1. [NYC Taxi Trips Batch Data Pipeline Project Azure](https://github.com/rain2624/nyc_taxi_trips_azure)
 
 ### 🔨 Tools
 1. Language: SQL, Python, Pyspark
