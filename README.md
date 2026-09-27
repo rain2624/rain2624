@@ -10,26 +10,31 @@ One of my recent projects is an **event-driven batch data pipeline on AWS**, whe
 
 **S3 → Lambda → Glue Workflow → PySpark ETL → S3 Silver/Gold → Athena**
 
-The project uses **AWS S3, Lambda, Glue, Glue Data Catalog, Athena, PySpark, Terraform, IAM, Parquet, and Great Expectations**.
+The project uses **Amazon S3, AWS Lambda, AWS Glue, Glue Data Catalog, Amazon Athena, PySpark, Terraform, IAM, Parquet, and Great Expectations**.
 
 My current focus is on building deeper expertise in **Data Engineering, distributed data processing, AWS, data orchestration, and scalable ETL pipelines**.
 
+---
 
-### 📚 Projects 
+### 📚 Projects
+
 1. [User Events Analysis Project](https://github.com/rain2624/user_events_analysis)
-1. [TV Shows Analytics Platform (2025)](https://github.com/rain2624/tv_shows_analytics_platform_2025) 
-1. [NYPD Arrest Data Analysis Project](https://github.com/rain2624/nypd_arrest_data_analysis)
+2. [TV Shows Analytics Platform (2025)](https://github.com/rain2624/tv_shows_analytics_platform_2025)
+3. [NYPD Arrest Data Analysis Project](https://github.com/rain2624/nypd_arrest_data_analysis)
+
+---
 
 ### 🔨 Tools
-1. Language: SQL, Python, Pyspark
-1. Orchestrator: Airflow, AWS Glue workflows
-1. Database & Datawarehouse: Google BigQuery, PostgreSQL, MySQL and Snowflake
-1. Data Lake: Amazon S3
-1. Data transformation: DBT
-1. Serverless & ETL: AWS Glue, AWS Lambda, AWS Athena
-1. IAAC: Terraform 
-1. Visualization: Power-bi, Looker Studio
-1. Version Control: Git and Git-hub
-1. Security: IAM
-1. Data quality: Great Expectations
 
+1. **Languages:** SQL, Python, PySpark
+2. **Orchestration:** Apache Airflow, AWS Glue Workflows
+3. **Databases & Data Warehouses:** Google BigQuery, PostgreSQL, MySQL, Snowflake
+4. **Data Lake:** Amazon S3
+5. **Data Transformation:** dbt
+6. **Serverless & ETL:** AWS Glue, AWS Lambda
+7. **Serverless Querying:** Amazon Athena
+8. **Infrastructure as Code:** Terraform
+9. **Visualization:** Power BI, Looker Studio
+10. **Version Control:** Git, GitHub
+11. **Security:** AWS IAM
+12. **Data Quality:** Great Expectations
